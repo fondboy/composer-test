@@ -1,11 +1,11 @@
 {
-    "name": "fondboy/test",
+    "name": "fondboy/teset",
     "description": "test",
     "type": "project",
-	"minimum-stability": "dev",
     "require": {
         "php": ">=7.2.0"
     },
+    "license": "MIT",
 	"autoload": {
         "psr-4": {
             "Fondboy\\": "src/"
@@ -16,5 +16,6 @@
             "name": "林伟平",
             "email": "linweiping@ubox.cn"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
