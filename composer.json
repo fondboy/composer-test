@@ -3,7 +3,6 @@
     "description": "test",
     "license": "MIT",
 	"minimum-stability": "stable",
-	"version": "0.0.1",
 	 "require": {
         "php": ">=7.2.0"
     },
