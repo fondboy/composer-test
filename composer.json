@@ -2,7 +2,7 @@
     "name": "fondboy/test",
     "description": "test",
     "license": "MIT",
-	"minimum-stability": "0.0.1",
+	"minimum-stability": "stable",
     "authors": [
         {
             "name": "林伟平",
