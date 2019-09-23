@@ -3,6 +3,7 @@
     "description": "test",
     "type": "library",
     "require": {
+        "fondboy/test": "dev-master",
         "php": ">=7.2.0"
     },
     "require-dev": {
@@ -19,5 +20,6 @@
             "name": "林伟平",
             "email": "linweiping@ubox.cn"
         }
-    ]
+    ],
+    "minimum-stability": "stable"
 }
