@@ -10,7 +10,7 @@
     },
 	"autoload": {
         "psr-4": {
-            "Fondboy\\": "vender/fondboy/"
+            "Fondboy\\": "./vender/fondboy/"
         }
     },
     "license": "MIT",
@@ -19,6 +19,5 @@
             "name": "林伟平",
             "email": "linweiping@ubox.cn"
         }
-    ],
-    "minimum-stability": "stable"
+    ]
 }
