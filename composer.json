@@ -3,6 +3,7 @@
     "description": "test",
     "license": "MIT",
 	"minimum-stability": "stable",
+	"version": "0.0.1",
     "authors": [
         {
             "name": "林伟平",
