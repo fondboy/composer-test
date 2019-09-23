@@ -5,7 +5,7 @@ class SayHello
 {
 	public static function world()
 	{
-		return '20190923，Hello World!';
+		return '20190923 ，Hello World!';
 	}
 	
 }
